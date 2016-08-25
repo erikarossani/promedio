@@ -9,6 +9,7 @@
     document.write("su promedio es:");
     document.write(promedio);
 
+<<<<<<< HEAD
 /*
 var num1 = prompt ("Primer número");
 var num2 = prompt ("Segundo número");
@@ -16,3 +17,5 @@ var num3 = prompt ("Tercer número");
 document.write("El promedio de "+ num1 + "+" + num2 + "+" + num3 + " es: ");
 document.write((parseInt(num1)+parseInt(num2)+parseInt(num3))/3);
 */
+=======
+>>>>>>> origin/master
