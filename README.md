@@ -6,7 +6,7 @@ Cálculo del promedio de tres números.
 2. num1
 3. num2
 4. num3
-5. num1 +num2 + num3 /3
+5. (num1 +num2 + num3) /3
 6. resultado 4  
 8. FIN
 
@@ -17,4 +17,4 @@ Cálculo del promedio de tres números.
 
 
 
-http://4.1m.yt/orx1Ak.jpg
+
